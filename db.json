@@ -1,0 +1,274 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Bagged milk",
+      "imgUrl": "/images/Bagged milk.jpeg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 0,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 2,
+      "name": "Baked beans",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 90,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "imgUrl": "/images/Banana.jpeg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 9,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 4,
+      "name": "Butter",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 0,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 5,
+      "name": "Canned tuna",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 16,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 6,
+      "name": "Carrot",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 18,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 7,
+      "name": "Chicken ham",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 18,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 8,
+      "name": "Corn flakes",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 17,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 9,
+      "name": "Cream cheese",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 18,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 10,
+      "name": "Cucumber",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 18,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 11,
+      "name": "Dish soap",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "CLEANING"
+    },
+    {
+      "id": 12,
+      "name": "Eggs",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 13,
+      "name": "Frozen pizza",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 14,
+      "name": "Honey",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 15,
+      "name": "Instant coffee",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 16,
+      "name": "Instant noodle",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 17,
+      "name": "Ketchup",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 18,
+      "name": "Lemons",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 19,
+      "name": "Lysol",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "CLEANING"
+    },
+    {
+      "id": 20,
+      "name": "Mayonnaise",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 21,
+      "name": "Milk",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 22,
+      "name": "Mixed vegetables",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 23,
+      "name": "Penne",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 24,
+      "name": "Pizza pops",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 25,
+      "name": "Ranch",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 26,
+      "name": "Shrimp",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 27,
+      "name": "Spaghetti",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 28,
+      "name": "Spam",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 29,
+      "name": "Sugar",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 18,
+      "price": 100,
+      "type": "FOOD"
+    },
+    {
+      "id": 30,
+      "name": "Yoghurt",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "Lorem ipsum dolor sit amet.",
+      "stock": 19,
+      "price": 100,
+      "type": "FOOD"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.shoppingListItem {
+    margin: 15px;
+    background-color: rgb(20 184 166);
+    text-align: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  
